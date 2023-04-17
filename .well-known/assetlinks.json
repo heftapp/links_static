@@ -10,5 +10,11 @@
         "BA:40:0F:E5:86:54:CA:7C:87:E8:A7:93:8A:E6:2F:E3:63:CF:2E:93:B4:3E:DF:7C:1C:42:F8:10:DB:A4:74:E0"
       ]
     }
-  }
+  },
+  {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "app.heft.app",
+               "sha256_cert_fingerprints": ["A0:C1:6E:B1:B5:D0:05:61:37:00:AB:0F:55:E3:10:6E:CA:71:74:C4:0C:12:A9:E9:C2:DD:6F:EF:53:88:97:06"] }
+}
 ]
+
