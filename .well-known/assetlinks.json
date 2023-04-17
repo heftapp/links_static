@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.heft.heft",
+      "sha256_cert_fingerprints": [
+        "BA:40:0F:E5:86:54:CA:7C:87:E8:A7:93:8A:E6:2F:E3:63:CF:2E:93:B4:3E:DF:7C:1C:42:F8:10:DB:A4:74:E0"
+      ]
+    }
+  }
+]
